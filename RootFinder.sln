@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RootFinder", "RootFinder\RootFinder.csproj", "{757860E7-EA1D-4DEC-B685-F6A5414A6C0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogParser", "LogParser\LogParser.csproj", "{6D435E1C-5D31-4DA6-8B9F-03ED8826AE95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{757860E7-EA1D-4DEC-B685-F6A5414A6C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757860E7-EA1D-4DEC-B685-F6A5414A6C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757860E7-EA1D-4DEC-B685-F6A5414A6C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757860E7-EA1D-4DEC-B685-F6A5414A6C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D435E1C-5D31-4DA6-8B9F-03ED8826AE95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D435E1C-5D31-4DA6-8B9F-03ED8826AE95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D435E1C-5D31-4DA6-8B9F-03ED8826AE95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D435E1C-5D31-4DA6-8B9F-03ED8826AE95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB11ED30-5AF4-4034-B126-4CB1B5535831}
+	EndGlobalSection
+EndGlobal
