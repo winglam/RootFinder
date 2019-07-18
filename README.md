@@ -44,6 +44,6 @@ This tool should then output the following files in ```.\```.
 
 # Anonymized Dataset
 
-The anonymized dataset of 44 flaky unit tests is stored [here](https://github.com/winglam/RootFinder/tree/master/ICSE2019_AnonymizedLogs). They belong to 22 software projects from 18 Microsoft internal/external products and services. For each test, the dataset contains 100 logs, some of which are for failed executions. 
+The anonymized dataset of 44 flaky unit tests is stored [here](https://github.com/winglam/RootFinder/tree/master/AnonymizedLogs). They belong to 22 software projects from 18 Microsoft internal/external products and services. For each test, the dataset contains 100 logs, some of which are for failed executions. 
 
 We believe that the dataset will be useful to the research community, not only to conduct research on various aspects of flaky tests and their root causes, but also for a general understanding of runtime behavior of tests in a production system. In the anonymized dataset, sensitive strings (such as method names containing Microsoft product names) are replaced with their hash values; however, the hashes are deterministic and hence can be correlated within and across trace files.
