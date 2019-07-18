@@ -1,3 +1,7 @@
+This repository contains the RootFinder tool and dataset of anonymized execution logs of flaky tests for the "[Root Causing Flaky Tests in a Large-Scale Industrial Setting](http://winglam2.web.engr.illinois.edu/publications/2019/LamETAL19RootFinder.pdf)" paper.
+
+For any questions regarding the paper, tool, or dataset, please feel free to reach out to [winglam2@illinois.edu](mailto:winglam2@illinois.edu). 
+
 # RootFinder
 
 This part of the README explains how the tool to automatically parse the logs to root cause flaky tests. Please note the following:
